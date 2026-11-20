@@ -1,1 +1,3 @@
-https://learn-age-match-world.lovable.app-
+# Mix
+
+[Сайтқа өту](https://learn-age-match-world.lovable.app)
